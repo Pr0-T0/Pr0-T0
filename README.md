@@ -1,19 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sarathkumar K</h1>
 <h3 align="center">"Student Developer | @ KTU | Creating AI-Driven Learning & Productivity Tools | Web & Mobile Dev Enthusiast"</h3>
 
-<!-- <p align="center">
-  <img src="https://raw.githubusercontent.com/Pr0-T0/Pr0-T0/main/assets/banner.gif" width="900" alt="Sarathkumar Banner" />
-</p> -->
 <p align="center">
-  <video
-    autoplay
-    loop
-    muted
-    playsinline
-    width="900">
-    <source src="https://raw.githubusercontent.com/Pr0-T0/Pr0-T0/main/assets/banner.mp4" type="video/mp4">
-  </video>
+  <img src="https://raw.githubusercontent.com/Pr0-T0/Pr0-T0/main/assets/banner.gif" width="900" alt="Sarathkumar Banner" />
 </p>
+
 
 
 
